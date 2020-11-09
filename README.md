@@ -7,4 +7,4 @@ This app builds a GUI to create, read, update, and delete entries in a SQL datab
 
 ### To run the app: 
 * Navigate to `\dist` folder, then double click `frontend.exe`.
-* From CLI: `py .\frontend.py` or `py .\dist\frontend.exe`
+* From CLI: `py .\frontend.py` or `.\dist\frontend.exe`
