@@ -1,4 +1,4 @@
-# -sqlite3-tkinter-BookshopDatabaseUI
+# BookshopDatabaseUI-tkinter-sqlite3
 
 This app builds a GUI to create, read, update, and delete entries in a SQL database.
 
